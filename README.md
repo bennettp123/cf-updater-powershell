@@ -1,6 +1,6 @@
-### dns.he.net powershell dynamic dns updater
+### dynamic dns updater for cloudflare
 
-A very basic updater for dynamic DNS services provided by <http://dns.he.net/>.
+A very basic dynamic dns updater for cloudflare, written in powershell.
 
 #### License
 
@@ -23,6 +23,6 @@ None. :p
 
 ### Scheduled Task creds
 
-![Scheduled task settings](https://raw.githubusercontent.com/bennettp123/dns.he.net-updater/master/doc/schedtask-sample1.png)
+![Scheduled task settings](https://raw.githubusercontent.com/bennettp123/cf-updater-powershell/master/doc/schedtask-sample1.png)
 
 ## Enjoy!
